@@ -1,0 +1,9 @@
+{
+  "name": "k8s-demo-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for Docker and Kubernetes deployment",
+  "main": "app.js",
+  "scripts": { "start": "node app.js" },
+  "license": "ISC",
+  "dependencies": { "express": "^4.19.2" }
+}
